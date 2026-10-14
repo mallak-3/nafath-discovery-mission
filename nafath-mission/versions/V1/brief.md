@@ -36,3 +36,4 @@ A common misunderstanding is that DNS over HTTPS (DoH) makes all internet activi
 ## Resource :DNS Queries over HTTPS (DoH) - https://www.rfc-editor.org/info/rfc8484/#section-4.2.1
 
 ## Open Question
+How can a government SSO service prevent DNS spoofing attacks while ensuring citizens can access government websites securly?
