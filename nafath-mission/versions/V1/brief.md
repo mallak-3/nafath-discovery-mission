@@ -27,8 +27,9 @@ DNS over HTTPS (DoH) encrypts DNS queries between a user’s device and the DNS 
 Phishing-resistant authentication helps protect users from fake login websites that try to steal their credentials. Examples include FIDO2 security keys and passkeys based on public-key cryptography. SMS codes and one-time passwords entered manually are not considered phishing-resistant because attackers may trick users into sharing them. A government SSO service should use phishing-resistant authentication to better protect citizens’ accounts.
 ## Resource :Multi-Factor Authentication -https://www.nist.gov/itl/smallbusinesscyber/guidance-topic/multi-factor-authentication 
 
-
 ## Data
+Oman’s Personal Data Protection Law requires organizations to handle personal data lawfully and protect individuals’ privacy. A government SSO service should explain why citizens’ data is collected, obtain consent where required, protect stored information, and follow the law’s rules for processing and disclosure. It should also apply appropriate safeguards to reduce the risk of unauthorized access or data leaks.
+## Resource: Oman Personal Data Protection Law, Royal Decree 6/2022 – https://decree.om/2022/rd20220006/
 
 ## Misconception in My Track
 
