@@ -20,6 +20,8 @@ Android apps use runtime permissions to control access to sensitive information 
 ## Resource :Request runtime permissions - https://developer.android.com/training/permissions/requesting#request-permission
 
 ## Networking
+DNS over HTTPS (DoH) encrypts DNS queries between a user’s device and the DNS resolver, helping protect these queries from being read or modified by others on the network. However, DoH does not hide all browsing activity, the destination IP addresses, or protect the device from malware. The DNS resolver can still see the queries, so choosing a trusted resolver is important.
+## Resource :DNS Queries over HTTPS (DoH) - https://www.rfc-editor.org/info/rfc8484/#section-4.2.1
 
 ## Cybersecurity
 
