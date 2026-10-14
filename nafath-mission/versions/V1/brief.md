@@ -10,7 +10,10 @@ These six fields work together to make SSO secure, reliable, and easy to use. If
 ## Software
 OAuth 2.0 and OpenID Connect (OIDC) are two protocols that work together to improve security. OAuth 2.0 allows applications to access protected resources, such as websites and APIs, using access tokens. OIDC adds user authentication to OAuth 2.0 and supports Single Sign-On (SSO). It also allows applications to get and save user information, such as their name and profile details, with the user's permission.
 ## Resource:OAuth 2.0 and OpenID Connect overview - https://developer.okta.com/docs/concepts/oauth-openid/
+
 ## AI
+AI can help detect suspicious login attempts in a government SSO service. The NIST AI Risk Management Framework (AI RMF) helps organizations identify, assess, and manage AI risks. Before using AI, the authority should evaluate privacy risks, check for biased or inaccurate results, protect citizens’ personal data, and monitor the system to ensure reliable decisions.
+## Resource :NIST AI RMF Playbook - https://airc.nist.gov/airmf-resources/playbook/
 
 ## Mobile
 
