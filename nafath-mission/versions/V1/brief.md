@@ -9,7 +9,7 @@ Software connects the login system to different government services. Artificial 
 These six fields work together to make SSO secure, reliable, and easy to use. If one field has a weakness, it may affect the security of the whole system.
 ## Software
 OAuth 2.0 and OpenID Connect (OIDC) are two protocols that work together to improve security. OAuth 2.0 allows applications to access protected resources, such as websites and APIs, using access tokens. OIDC adds user authentication to OAuth 2.0 and supports Single Sign-On (SSO). It also allows applications to get and save user information, such as their name and profile details, with the user's permission.
-Resource:OAuth 2.0 and OpenID Connect overview - https://developer.okta.com/docs/concepts/oauth-openid/
+## Resource:OAuth 2.0 and OpenID Connect overview - https://developer.okta.com/docs/concepts/oauth-openid/
 ## AI
 
 ## Mobile
