@@ -16,6 +16,8 @@ AI can help detect suspicious login attempts in a government SSO service. The NI
 ## Resource :NIST AI RMF Playbook - https://airc.nist.gov/airmf-resources/playbook/
 
 ## Mobile
+Android apps use runtime permissions to control access to sensitive information and device features, such as location, camera, and microphone. An app should request permission when a feature needs access and explain why it is necessary. Users can grant or deny the request. The government SSO app should request only the permissions it needs and respect the user’s decision.
+## Resource :Request runtime permissions - https://developer.android.com/training/permissions/requesting#request-permission
 
 ## Networking
 
